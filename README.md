@@ -25,5 +25,5 @@ BugEX is a powerful Python-based tool designed for ethical hackers and bug bount
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/ahmedxcx722/BugEX.git
+git clone https://github.com/AhmedXCX722/BugEX.git
 cd BugEX
